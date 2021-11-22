@@ -12,5 +12,4 @@ while True:
     s.sendmail(a, v, m)
 
 
-
-
+#note:- for fun porpose only
